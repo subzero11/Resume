@@ -2,7 +2,7 @@
 
 
 ### `What does the app do?`
-You will be able to add and d Tasks.
+You will be able to add and delete Tasks.
 
 
 ## Available Scripts
