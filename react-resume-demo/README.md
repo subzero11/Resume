@@ -2,11 +2,11 @@
 
 
 ### `What does the app do?`
-You will be able to add and remove Tasks.
+You will be able to add and d Tasks.
+
 
 ## Available Scripts
 
-In the project directory, you can run:
 
 ### `npm start`
 
