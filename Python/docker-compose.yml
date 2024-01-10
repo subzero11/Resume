@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+  flask_websock_server:
+    container_name: flask_websock_server_data
+    networks:
+      - main-net
+    build: .
+    restart: always
+    ports:
+      - "5000:5000"
+networks:
+  main-net:
+    external: true
+    name: main-net
+
