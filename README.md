@@ -21,12 +21,12 @@ Windows 10 Desktop App, developed using visual studio designer and explorer
 
 # Skills Applied
 
-**Charting using JS library**
-**Python**
-**Javascript**
-**React**
-**Flask**
-**Websocket**
-**Docker**
-**Windows 10 desktop app development**
-**Visual Studio desginer and explorer**
+**Charting using JS library**  
+**Python**  
+**Javascript**  
+**React**  
+**Flask**  
+**Websocket**  
+**Docker**  
+**Windows 10 desktop app development**  
+**Visual Studio desginer and explorer**  
