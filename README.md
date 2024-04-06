@@ -1,19 +1,22 @@
 # Resume Guide
 
 
-# Chart JS
-
-Charting Using ChartJS Library
+# Devops
+>Create pipeline using **Jenkins**, **SonarQube**, **ArgoCD**, **Kubernetes**, **Docker** 
 
 # Python
 
-#### Heading Containerized Flask Websock Server 
+#### Flask Websock Server 
 
 Using Flask to serve data over websocket (using docker container)
 
 ## React
 
 Demo App created in React
+
+# Chart JS
+
+Charting Using ChartJS Library
 
 # Windows 10
 
