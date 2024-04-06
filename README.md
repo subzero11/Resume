@@ -2,27 +2,27 @@
 
 
 # Devops
->Create pipeline using **Jenkins**, **SonarQube**, **ArgoCD**, **Kubernetes**, **Docker** 
+Pipeline using **Jenkins**, **SonarQube**, **ArgoCD**, **Kubernetes**, **Docker** 
 
 # Python
 
 #### Flask Websock Server 
 
-Using Flask to serve data over websocket (using docker container)
+Flask serving data over websocket (using docker container)
 
 ## React
 
-Demo App created in React
+Demo App in React
 
 # Chart JS
 
-Charting Using ChartJS Library
+Charting in ChartJS Library
 
 # Windows 10
 
-Windows 10 Desktop App, developed using visual studio designer and explorer
+Windows 10 Desktop App, developed with visual studio designer and explorer
 
-# Skills Applied
+# Tools/Knowledge applied
 
 **Charting using JS library**  
 **Python**  
@@ -33,3 +33,8 @@ Windows 10 Desktop App, developed using visual studio designer and explorer
 **Docker**  
 **Windows 10 desktop app development**  
 **Visual Studio desginer and explorer**  
+**Jenkins**  
+**SonarQube**  
+**ArgoCD**  
+**Kubernetes**  
+**Docker**  
