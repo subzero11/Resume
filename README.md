@@ -25,7 +25,7 @@ Windows 10 Desktop App, developed with visual studio designer and explorer
 # Tools/Knowledge applied
 
 **LM Studio**  
-**Ollama** 
+**Ollama**   
 **RAG**  
 **Charting using JS library**    
 **Python**    
