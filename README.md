@@ -24,8 +24,8 @@ Windows 10 Desktop App, developed with visual studio designer and explorer
 
 # Tools/Knowledge applied
 
-**LLM workflows (RAG, ChatPrompt, Automation)**    
 **LM Studio**  
+**RAG**  
 **Ollama**  
 **Charting using JS library**    
 **Python**    
