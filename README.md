@@ -1,5 +1,6 @@
 # Resume Guide
 
+Basic examples, for implementation of pipelines and fully featured projects please see individual repositories.
 
 # Devops
 Pipeline using **Jenkins**, **SonarQube**, **ArgoCD**, **Kubernetes**, **Docker** 
