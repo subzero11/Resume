@@ -1,6 +1,6 @@
 # Resume Guide
 
-Basic examples, for implementation of pipelines and fully featured projects please see individual repositories.
+Devops Engineer with experience working on large projects.  Background in software engineering and working with Tools and/Knowledge (see below).  Enjoy working on challenging projects using new technologies with a focus on automation and testing.
 
 # Devops
 Pipeline using **Jenkins**, **SonarQube**, **ArgoCD**, **Kubernetes**, **Docker** 
